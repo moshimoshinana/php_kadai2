@@ -1,4 +1,4 @@
-
+<?php
 // 課題１
 $name = "Nana";
 if ($name == "Nana") {
